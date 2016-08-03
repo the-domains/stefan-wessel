@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stefan Wessel]]></title>
+        <description><![CDATA[Stefan Wessel]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 08:46:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Onstage]]></title>
+            <description><![CDATA[<article><h1>Onstage</h1><p>Stefan Wessel</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ac8f4b0-f723-4a5c-bd6f-aa5800d6fee0.jpg"></article>]]></description>
+            <link>undefinedonstage/index.html</link>
+            <guid isPermaLink="false">b3c27c76-3f49-4d97-a3af-eb04f36fd406</guid>
+            <pubDate>Wed, 03 Aug 2016 08:46:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
